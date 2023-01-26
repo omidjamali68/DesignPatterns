@@ -1,0 +1,15 @@
+D:\Dev\Design Patterns Samples\State\bin\Debug\net6.0\State.exe
+D:\Dev\Design Patterns Samples\State\bin\Debug\net6.0\State.deps.json
+D:\Dev\Design Patterns Samples\State\bin\Debug\net6.0\State.runtimeconfig.json
+D:\Dev\Design Patterns Samples\State\bin\Debug\net6.0\State.dll
+D:\Dev\Design Patterns Samples\State\bin\Debug\net6.0\State.pdb
+D:\Dev\Design Patterns Samples\State\obj\Debug\net6.0\State.csproj.AssemblyReference.cache
+D:\Dev\Design Patterns Samples\State\obj\Debug\net6.0\State.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Design Patterns Samples\State\obj\Debug\net6.0\State.AssemblyInfoInputs.cache
+D:\Dev\Design Patterns Samples\State\obj\Debug\net6.0\State.AssemblyInfo.cs
+D:\Dev\Design Patterns Samples\State\obj\Debug\net6.0\State.csproj.CoreCompileInputs.cache
+D:\Dev\Design Patterns Samples\State\obj\Debug\net6.0\State.dll
+D:\Dev\Design Patterns Samples\State\obj\Debug\net6.0\refint\State.dll
+D:\Dev\Design Patterns Samples\State\obj\Debug\net6.0\State.pdb
+D:\Dev\Design Patterns Samples\State\obj\Debug\net6.0\State.genruntimeconfig.cache
+D:\Dev\Design Patterns Samples\State\obj\Debug\net6.0\ref\State.dll
