@@ -1,0 +1,15 @@
+D:\Dev\Design Patterns Samples\Decorator\bin\Debug\net6.0\Decorator.exe
+D:\Dev\Design Patterns Samples\Decorator\bin\Debug\net6.0\Decorator.deps.json
+D:\Dev\Design Patterns Samples\Decorator\bin\Debug\net6.0\Decorator.runtimeconfig.json
+D:\Dev\Design Patterns Samples\Decorator\bin\Debug\net6.0\Decorator.dll
+D:\Dev\Design Patterns Samples\Decorator\bin\Debug\net6.0\Decorator.pdb
+D:\Dev\Design Patterns Samples\Decorator\obj\Debug\net6.0\Decorator.csproj.AssemblyReference.cache
+D:\Dev\Design Patterns Samples\Decorator\obj\Debug\net6.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Design Patterns Samples\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfoInputs.cache
+D:\Dev\Design Patterns Samples\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfo.cs
+D:\Dev\Design Patterns Samples\Decorator\obj\Debug\net6.0\Decorator.csproj.CoreCompileInputs.cache
+D:\Dev\Design Patterns Samples\Decorator\obj\Debug\net6.0\Decorator.dll
+D:\Dev\Design Patterns Samples\Decorator\obj\Debug\net6.0\refint\Decorator.dll
+D:\Dev\Design Patterns Samples\Decorator\obj\Debug\net6.0\Decorator.pdb
+D:\Dev\Design Patterns Samples\Decorator\obj\Debug\net6.0\Decorator.genruntimeconfig.cache
+D:\Dev\Design Patterns Samples\Decorator\obj\Debug\net6.0\ref\Decorator.dll
