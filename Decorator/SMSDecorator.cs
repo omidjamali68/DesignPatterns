@@ -6,13 +6,13 @@ namespace Decorator
         {
         }
 
-        public new void Send(string message)
+        public override void Send(string message)
         {
-            sendMessage(message);
+            SendMessage(message);
             base.Send(message);
         }
 
-        private void sendMessage(string message)
+        private static void SendMessage(string message)
         {
             // do some implemention for send message with SMS service
             Console.WriteLine(message + " Sent via SMS service.");

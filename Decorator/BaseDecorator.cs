@@ -1,12 +1,12 @@
 namespace Decorator
 {
-    public class BaseDecorator : Notifier
+    public abstract class BaseDecorator : Notifier
     {
-        private Notifier warppe;
+        private readonly Notifier warppe;
 
         public BaseDecorator(Notifier wrappe)
         {
-            this.warppe = wrappe;
+            warppe = wrappe;
         }
 
         public override void Send(string message)
